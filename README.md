@@ -7,5 +7,5 @@
 **Email:** yasinbrcn@gmail.com 
 
 ### Certification
-![](img/certificate_ex.png)
+![](img/Yasin Python Sertifika.png)
 
